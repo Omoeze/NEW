@@ -1,0 +1,65 @@
+/* .first{
+    background: rgb(7, 7, 78);
+    padding: 3rem;
+    width: 70%;
+    max-width: 750px;
+    color: white;
+    margin:  0 auto;
+   
+}
+.first h{
+    font-size: 2rem;
+}
+.first p{
+    font-size: 1rem;
+}
+.xo{
+   width: 70%;
+   max-width: 750px;
+   color: black;
+   margin: 0 auto;
+} */
+.yo{
+    background:rgb(6, 26, 32);
+    padding-left: 2.5rem;
+    padding-top: 2.5rem;
+    padding-bottom: 4rem;
+    font-family:Arial, Helvetica, sans-serif;
+    width: 50%;
+    max-width: 500px;
+    margin: 0 auto;
+    margin-block-start: 5rem;
+    padding-right: 2.5rem;
+    box-shadow: 5px 5px 20px
+}
+.yo p{
+color: gray;
+font-size: .8rem;
+margin-block-end: 1.5rem;
+}
+.yo h1{
+    color: white;
+}
+.yo button{
+    padding: .7rem;
+    background: cyan;
+    color: black;
+    border: none;
+    width: 12rem;
+    font-weight: 900;
+    font-size: .75rem;
+    border-radius: 1.7rem;
+}
+.so{
+    background-color: white;
+    border: 1px solid black;
+    width:50% ;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 2.5rem;
+    padding-top: 8rem;
+    box-shadow: 5px 5px 15px;
+    border: none;
+
+
+}
